@@ -1,0 +1,17 @@
+schema_version: 1
+summary: A documentation placeholder for an empirical study of challenges in using
+  low-code software for machine learning; the described research code and datasets
+  are absent from the audited tree.
+state: placeholder
+intended_readers:
+- Researchers seeking the low-code machine-learning empirical-study replication material.
+consult_when:
+- Checking the study purpose or whether its replication code and datasets have been
+  supplied.
+watch_when:
+- Addition of research replication material or clarification of the documented study
+  purpose.
+current_capabilities:
+- The audited base tree contains README.md and LICENSE; it documents the study purpose
+  but includes no research source or dataset directories.
+planned_capabilities: []
